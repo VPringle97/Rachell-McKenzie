@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <>
-      <div className='bg-red-100'>we have tailwind!</div>
+      <div className='bg-red-100'>Rachell McKenzie</div>
     </>
   )
 }
